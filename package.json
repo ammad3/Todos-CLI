@@ -1,19 +1,19 @@
 {
   "name": "a2dev-todos",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.5",
+  "description": "Its a To do list App",
   "main": "index.js",
   "type":"module",
   "publishConfig": {
     "access": "public"
   },
-  "bin": "index.js",
+  "bin": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.20"
   },
